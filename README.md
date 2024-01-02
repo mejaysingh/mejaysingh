@@ -74,14 +74,14 @@ I am a fullstack developer from India 🇮🇳. I am working as a Software Engin
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mejayantsingh" target="_blank" title="mejayantsingh" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" alt="Linkedin"  />
-  </a>&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" alt="Linkedin"/></a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/mejaysingh" title="mejaysingh" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/mejaysingh" target="_blank" title="mejaysingh" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>
+  &nbsp;&nbsp;
   <a href="mailto:jayantkumar433@gmail.com" target="_blank" title="jayantkumar433@gmail.com" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/>
   </a>
